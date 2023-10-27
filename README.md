@@ -1,3 +1,5 @@
 
-# leetcode_october
-Leetcode questions
+# LEETCODE
+https://neetcode.io/practice
+
+https://seanprashad.com/leetcode-patterns/
