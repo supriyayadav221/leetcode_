@@ -5,7 +5,6 @@ class Solution {
 
     public int bs(int[] nums, int left, int right, int target){
         int mid = (left +  right)  /2 ;
-        System.out.print(mid);
         if(left > right)
         return -1;
         if(nums[mid] == target){
